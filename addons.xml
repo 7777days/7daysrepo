@@ -35,4 +35,23 @@
     <platform>all</platform>
   </extension>
 </addon>
+<addon id="repository.7daysrepo" name="7Days Repo" version="1.0.0" provider-name="7777days">
+  <requires>
+    <import addon="xbmc.addon" version="12.0.0"/>
+  </requires>
+  <extension point="xbmc.addon.repository" name="7Days Repo">
+    <dir>
+      <info compressed="false">https://raw.githubusercontent.com/7777days/7daysrepo/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/7777days/7daysrepo/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/7777days/7daysrepo/main/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Personal Kodi addon repository</summary>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
 </addons>
