@@ -1,0 +1,182 @@
+msgctxt "Addon Summary"
+msgid "Coupang Play MINI"
+msgstr "Coupang Play MINI"
+
+msgctxt "Addon Description"
+msgid "Coupang Play Services Add-on"
+msgstr "Coupang Play 애드온"
+
+msgctxt "#30001"
+msgid "Genenal"
+msgstr "일반설정"
+
+msgctxt "#30002"
+msgid "Gsearch"
+msgstr "통합메뉴"
+
+msgctxt "#30101"
+msgid "ID"
+msgstr "아이디"
+
+msgctxt "#30102"
+msgid "Password"
+msgstr "패스워드"
+
+msgctxt "#30103"
+msgid "Profile"
+msgstr "프로필 (사용하는 프로필을 선택하세요 1~4)"
+
+msgctxt "#30104"
+msgid "Logout (delete session cookies) - click"
+msgstr "세션쿠키 삭제 (로그아웃 필요시 클릭하세요)"
+
+msgctxt "#30105"
+msgid "'Session Cookies' TTL(day)"
+msgstr "세션쿠키 유지기간(일) - 다음기간동안 세션정보 재사용"
+
+
+msgctxt "#30201"
+msgid "profile 1"
+msgstr "프로필 1"
+
+msgctxt "#30202"
+msgid "profile 2"
+msgstr "프로필 2"
+
+msgctxt "#30203"
+msgid "profile 3"
+msgstr "프로필 3"
+
+msgctxt "#30204"
+msgid "profile 4"
+msgstr "프로필 4"
+
+
+msgctxt "#30301"
+msgid "Account Settings"
+msgstr "계정설정"
+
+msgctxt "#30302"
+msgid "Session-cookies Management"
+msgstr "세션쿠키 관리"
+
+msgctxt "#30303"
+msgid "Single Search"
+msgstr "단독검색"
+
+msgctxt "#30304"
+msgid "Total Search"
+msgstr "통합검색"
+
+msgctxt "#30305"
+msgid "Bookmark MINI"
+msgstr "통합 찜하기 (북마크)"
+
+msgctxt "#30306"
+msgid "Other settings"
+msgstr "기타 설정"
+
+msgctxt "#30307"
+msgid "Excluding adult category display"
+msgstr "성인 카테고리 표시 제외"
+
+
+
+msgctxt "#30401"
+msgid "Show 'local search menu'"
+msgstr "단독검색(쿠팡) 메뉴 보이기"
+
+msgctxt "#30402"
+msgid "Show 'OTT local search history menu'"
+msgstr "단독검색(쿠팡) 이력 보이기"
+
+msgctxt "#30403"
+msgid "Show 'OTT total search menu'"
+msgstr "통합검색 메뉴 보이기 (search mini 애드온 설치 필요)"
+
+msgctxt "#30404"
+msgid "Show 'OTT total search history menu'"
+msgstr "통합검색 이력 보이기 (search mini 애드온 설치 필요)"
+
+msgctxt "#30405"
+msgid "Show registration menu 'OTT total bookmark'"
+msgstr "통합 찜하기 등록(팝업메뉴) 사용 (bookmark mini 필요)"
+
+msgctxt "#30406"
+msgid "Show list search menu 'OTT total bookmark'"
+msgstr "통합 찜 목록 조회메뉴 보이기 (bookmark mini 필요)"
+
+
+
+msgctxt "#30901"
+msgid "Set your ID or Password."
+msgstr "아이디 또는 패스워드를 설정하세요."
+
+msgctxt "#30902"
+msgid "Are you change settings now?"
+msgstr "지금 설정하겠습니까?"
+
+msgctxt "#30903"
+msgid "Login Failed!"
+msgstr "로그인 실패!"
+
+msgctxt "#30904"
+msgid "Logout Success!!"
+msgstr "로그아웃 성공!!"
+
+msgctxt "#30905"
+msgid "Delete login info(Cookies)"
+msgstr "로그인 쿠키(세션정보)를 삭제합니다."
+
+msgctxt "#30906"
+msgid "Are you delete now?"
+msgstr "지금 삭제하시겠습니까?"
+
+msgctxt "#30907"
+msgid "Check your pass!"
+msgstr "재생권한을 확인하세요"
+
+msgctxt "#30908"
+msgid "Input Search Keyword"
+msgstr "검색어 입력"
+
+msgctxt "#30909"
+msgid "Token renewal failed"
+msgstr "토큰 갱신 실패!"
+
+msgctxt "#30910"
+msgid "Token renewal succese"
+msgstr "토큰 갱신 성공!"
+
+
+msgctxt "#30911"
+msgid "Delete search list."
+msgstr "검색목록을 삭제합니다."
+
+msgctxt "#30912"
+msgid "Delete selected search list"
+msgstr "선택된 검색목록을 삭제합니다."
+
+msgctxt "#30913"
+msgid "Watched list Delete."
+msgstr "시청목록을 삭제합니다."
+
+msgctxt "#30914"
+msgid "Add the selected video to your favorite video"
+msgstr "선택영상을 찜한 영상에 추가합니다.(OTT 통합)"
+
+msgctxt "#30915"
+msgid "Would you like to add it now?"
+msgstr "지금 추가하시겠습니까?"
+
+msgctxt "#30916"
+msgid "Delete selected watched list"
+msgstr "선택된 시청이력을 삭제합니다."
+
+msgctxt "#30917"
+msgid "Select the generated cookie information file."
+msgstr "생성된 쿠키 정보파일을 선택하세요."
+
+msgctxt "#30918"
+msgid "Login Success!"
+msgstr "로그인 성공~~"
