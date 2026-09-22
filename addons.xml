@@ -22,7 +22,7 @@
 		</assets>
 	</extension>
 </addon>
-<addon id="service.ottsync" name="Kodi Settings Backup/Restore" version="1.01" provider-name="user">
+<addon id="service.ottsync" name="Kodi Settings Backup/Restore" version="1.02" provider-name="user">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -33,6 +33,9 @@
     <summary lang="en_GB">Manual Kodi settings backup/restore over Samba</summary>
     <description lang="en_GB">Backs up and restores Favourites and CarLinkKit-specific settings (GUI, skin) to/from a Samba server.</description>
     <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
   </extension>
 </addon>
 <addon id="repository.7daysrepo" name="7Days Repo" version="1.0.0" provider-name="7777days">
