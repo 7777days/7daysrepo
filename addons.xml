@@ -22,7 +22,7 @@
 		</assets>
 	</extension>
 </addon>
-<addon id="service.ottsync" name="Kodi Settings Backup/Restore" version="1.00" provider-name="user">
+<addon id="service.ottsync" name="Kodi Settings Backup/Restore" version="1.01" provider-name="user">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
