@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+	<section id="plugin.video.spotvm">
+
+		<category id="genenal" label="30001">
+
+			<group id="1" label="30301">
+				
+				<setting id="id" type="string" label="30101">
+					<level>0</level>
+					<default/>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<control type="edit" format="string">
+						<heading>30101</heading>
+					</control>			
+				</setting>
+				
+				<setting id="pw" type="string" label="30102">
+					<level>0</level>
+					<default/>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<control type="edit" format="string">
+						<heading>30102</heading>
+						<hidden>true</hidden>
+					</control>			
+				</setting>
+
+			</group>
+
+
+			<group id="2" label="30302">
+
+				<setting id="logout" type="string" label="30108">
+					<level>0</level>
+					<default/>
+					<constraints>
+						<allowempty>true</allowempty>
+					</constraints>
+					<control type="button" format="action">
+						<data>RunPlugin(plugin://plugin.video.spotvm/?mode=LOGOUT)</data>
+					</control>
+				</setting>
+
+				<!--<setting id="cache_ttl" type="integer" label="30109">
+					<level>0</level>
+					<default>5</default>
+					<constraints>
+						<minimum>1</minimum>
+						<step>1</step>
+						<maximum>30</maximum>
+					</constraints>
+					<control type="slider" format="integer">
+						<popup>false</popup>
+					</control>
+				</setting> -->
+
+			</group>
+
+
+			<group id="3" label="30304">
+
+				<setting id="hidescore" type="boolean" label="30110">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>				
+				
+			</group>
+
+
+		</category>
+
+	</section>
+</settings>

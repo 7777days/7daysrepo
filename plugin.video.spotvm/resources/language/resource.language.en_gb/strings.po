@@ -1,0 +1,109 @@
+msgctxt "Addon Summary"
+msgid "SpotvM"
+msgstr "SpotvM"
+
+msgctxt "Addon Description"
+msgid "Spotv VOD Services Add-on"
+msgstr "Spotv VOD 애드온"
+
+msgctxt "#30001"
+msgid "Genenal"
+msgstr "일반설정"
+
+msgctxt "#30101"
+msgid "ID"
+msgstr "아이디"
+
+msgctxt "#30102"
+msgid "Password"
+msgstr "패스워드"
+
+msgctxt "#30104"
+msgid "Stream Quality"
+msgstr "스트림 화질"
+
+msgctxt "#30108"
+msgid "Logout (delete session cookies) - click"
+msgstr "세션쿠키 삭제 (로그아웃 필요시 클릭하세요)"
+
+msgctxt "#30109"
+msgid "'Session Cookies' TTL(day)"
+msgstr "세션쿠키 유지기간(일) - 다음기간동안 세션정보 재사용"
+
+msgctxt "#30110"
+msgid "Hide Game Score"
+msgstr "Game Score 정보 안보이기 (VOD 목록)"
+
+msgctxt "#30203"
+msgid "FHD (1080p)"
+msgstr "FHD (1080p)"
+
+msgctxt "#30204"
+msgid "HD (720p)"
+msgstr "HD (720p)"
+
+msgctxt "#30205"
+msgid "SD (540p)"
+msgstr "SD (540p)"
+
+
+msgctxt "#30301"
+msgid "Account Settings"
+msgstr "계정설정"
+
+msgctxt "#30302"
+msgid "Session Management"
+msgstr "세션관리"
+
+msgctxt "#30303"
+msgid "Play Management"
+msgstr "재생관리"
+
+msgctxt "#30304"
+msgid "Other settings"
+msgstr "기타설정"
+
+
+msgctxt "#30901"
+msgid "Set your ID or Password."
+msgstr "아이디 또는 패스워드를 설정하세요."
+
+msgctxt "#30902"
+msgid "Are you change settings now?"
+msgstr "지금 설정하겠습니까?"
+
+msgctxt "#30903"
+msgid "Login Failed!"
+msgstr "로그인 실패!"
+
+msgctxt "#30904"
+msgid "Watched list Delete."
+msgstr "시청목록을 삭제합니다."
+
+msgctxt "#30905"
+msgid "Are you delete now?"
+msgstr "지금 삭제하시겠습니까?"
+
+msgctxt "#30906"
+msgid "Input Search Keyword"
+msgstr "검색어 입력"
+
+msgctxt "#30907"
+msgid "Not exits Play Video."
+msgstr "제공되는 영상이 없습니다."
+
+msgctxt "#30908"
+msgid "Check your pass!"
+msgstr "재생권한을 확인하세요"
+
+msgctxt "#30909"
+msgid "Logout Success!!"
+msgstr "로그아웃 성공!!"
+
+msgctxt "#30910"
+msgid "Delete login info(Cookies)"
+msgstr "로그인 쿠키(세션정보)를 삭제합니다."
+
+msgctxt "#30911"
+msgid "Delete selected watched list"
+msgstr "선택된 시청이력을 삭제합니다."
